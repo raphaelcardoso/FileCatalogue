@@ -108,7 +108,7 @@ vector<string> Executive::processArgumentsPattern(char * argv[], int argc)
 }
 
 
-//--------------<program starts from this point>----------------
+//--------------< the program starts from this point>----------------
 
 int main(int argc, char *  argv[])
 {
